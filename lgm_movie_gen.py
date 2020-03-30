@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import matplotlib.patches as patches
 import numpy as np
 
-np.random.seed(1000007)
+np.random.seed(420)
 matplotlib.rcParams.update({'font.size': 22})
 
 def generate_impulses(length, min_impulse, max_impulse):
